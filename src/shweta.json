@@ -1,0 +1,33 @@
+[ {
+  "firstname" : "anshu",
+  "lastname" : "jha",
+  "address" : "202",
+  "city" : "mumbai",
+  "state" : "maha",
+  "zip" : "021829",
+  "phonenumber" : "0987654321"
+}, {
+  "firstname" : "shweta",
+  "lastname" : "bodke",
+  "address" : "123",
+  "city" : "No",
+  "state" : "gujrat",
+  "zip" : "No",
+  "phonenumber" : "0987654321"
+}, {
+  "firstname" : "shweta",
+  "lastname" : "sharma",
+  "address" : "101",
+  "city" : "det",
+  "state" : "No",
+  "zip" : "No",
+  "phonenumber" : "No"
+}, {
+  "firstname" : "abc",
+  "lastname" : "xyz",
+  "address" : "20202",
+  "city" : "navi mumbai",
+  "state" : "maha",
+  "zip" : "012345",
+  "phonenumber" : "0987654321"
+} ]

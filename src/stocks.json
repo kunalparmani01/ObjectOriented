@@ -1,0 +1,13 @@
+[ {
+  "name" : "Birla Sun Life",
+  "price" : 45,
+  "quantity" : 100
+}, {
+  "name" : "Apollo Pharma",
+  "price" : 20,
+  "quantity" : 200
+}, {
+  "name" : "DSP Black",
+  "price" : 90,
+  "quantity" : 50
+} ]
